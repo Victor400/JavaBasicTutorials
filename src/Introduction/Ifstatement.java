@@ -114,20 +114,20 @@ public class Ifstatement {
 //       	 }
 //       		 		   
 	
-		  int x = 10;
-		  int y = 20;
-		  String name ="5";
-		  String lastname = "Michael";
-		  int age = 5;
-		  
-		  int sizeName = lastname.length();
-		  
-		  if(x==y) {
-		     System.out.println("x and y are equal");
-		  }else {
-			  System.out.println("x and y are not equal");
-		  }
-		  
+//		  int x = 10;
+//		  int y = 20;
+//		  String name ="5";
+//		  String lastname = "Michael";
+//		  int age = 5;
+//		  
+//		  int sizeName = lastname.length();
+//		  
+//		  if(x==y) {
+//		     System.out.println("x and y are equal");
+//		  }else {
+//			  System.out.println("x and y are not equal");
+//		  }
+//		  
 	// Another if statement
 //		  if (sizeName.equals(name)){
 //			 System.out.println("Both values are equal");
@@ -141,10 +141,9 @@ public class Ifstatement {
 //    	  System.out.println();
 //      }
 //		  
+		 }	  
 		  
-		  
-		  
-		 
+}
 	
 
 
