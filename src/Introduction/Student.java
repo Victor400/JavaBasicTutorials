@@ -19,5 +19,6 @@ public class Student {
 	
 	 public void interract() {
 		 System.out.println("interract");
-	 }
+      }
+	 
 }
