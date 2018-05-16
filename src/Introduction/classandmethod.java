@@ -21,7 +21,7 @@ public class classandmethod {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-
+ 
         // 
 		String[] Fruits = {"mango","orange", "grape", "apple", "melon", "pineapple" };
 		System.out.println( " this is index 3 ===== ======== " + Fruits[2]);

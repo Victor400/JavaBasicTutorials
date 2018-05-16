@@ -24,3 +24,4 @@ public class Food {
 		System.out.println("allergy");
 		}
 }
+

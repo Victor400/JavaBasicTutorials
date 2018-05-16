@@ -140,7 +140,7 @@ public class Ifstatement {
 //      if (x == y && y == age ) {
 //    	  System.out.println();
 //      }
-//		  
+//		   
 		 }	  
 		  
 }

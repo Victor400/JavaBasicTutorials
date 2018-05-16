@@ -64,8 +64,8 @@ public class HelloWorld {
 		 */
 		
 		 String sName = " wale"; // string 
-		 String sLocation = " kadif"; // string 
-		 int iphoneNumber = 9876543; // interger 
+		 String Location = " kadif"; // string 
+		 int phoneNumber = 9876543; // integer 
 		 int dateOfBith = 12/05/18; //integer 
 		 String Adress = " wale streeet"; // strings 
 		 double money = 7743573; // money and calculative values 
@@ -75,7 +75,7 @@ public class HelloWorld {
 		
       
        
-       // datas and adata types for expedia cars 
+       // datas and a data types for expedia cars 
        String pickoff = "New York, NY, United States (JFK-John F. Kennedy Int"; 
        System.out.println("======== pick up place ==========" + pickoff); 
        
